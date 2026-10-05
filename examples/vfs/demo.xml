@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vfs name="demo">
+  <file name="readme.txt" encoding="utf-8">Variant 34 shell emulator</file>
+  <dir name="home">
+    <dir name="student">
+      <file name="notes.txt" encoding="utf-8">first line
+second line
+third line
+fourth line
+fifth line</file>
+      <file name="data.bin" encoding="base64">AAECAwQ=</file>
+    </dir>
+  </dir>
+</vfs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vfs name="deep">
+  <dir name="level1">
+    <dir name="level2">
+      <dir name="level3">
+        <file name="deep.txt" encoding="utf-8">three levels deep</file>
+      </dir>
+    </dir>
+  </dir>
+</vfs>

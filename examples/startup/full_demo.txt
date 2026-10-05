@@ -1,0 +1,7 @@
+# Full demo
+ls /
+cd /home/student
+ls
+head -n 2 notes.txt
+tac notes.txt
+history
