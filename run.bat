@@ -1,2 +1,2 @@
 @echo off
-python src\main.py %*
+py src\main.py %*
