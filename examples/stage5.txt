@@ -1,0 +1,6 @@
+# Проверка перемещения и переименования
+ls /
+mv /readme.txt /about.txt
+ls /
+mv /about.txt /home/student
+ls /home/student

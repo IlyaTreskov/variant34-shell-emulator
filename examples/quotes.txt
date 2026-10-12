@@ -1,0 +1,3 @@
+# Пример аргумента в кавычках
+ls "/home/student"
+head -n 2 "/home/student/notes.txt"

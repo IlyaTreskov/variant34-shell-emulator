@@ -1,0 +1,8 @@
+# Команды этапа 4
+ls /
+cd /home/student
+ls
+head notes.txt
+head -n 2 notes.txt
+tac notes.txt
+history

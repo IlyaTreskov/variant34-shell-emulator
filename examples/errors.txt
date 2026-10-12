@@ -1,0 +1,4 @@
+# Команды после ошибки не запускаются
+ls /
+cd /missing
+ls /home/student
